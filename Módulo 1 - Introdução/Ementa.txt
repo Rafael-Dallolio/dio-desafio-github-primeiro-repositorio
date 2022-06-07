@@ -1,0 +1,7 @@
+## Módulo 1 - Conteúdo de Abertura (11h)
+
+# Introdução à Programação e Pensamento Computacional
+# Introdução ao Git e ao GitHub
+# Desafio de projeto
+
+"Observações: módulo básico voltado para conceitos gerais; interessante em notar o cuidado dos instrutores em não 'espantar' os participantes, por meio de aulas dinâmicas e hands on"
