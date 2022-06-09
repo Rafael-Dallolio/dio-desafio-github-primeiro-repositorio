@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub - Bootcamp Santander-DIO Fullstack Dev
+# Bootcamp Santander-DIO Fullstack Dev
 Repositório criado para desafio de Projeto
 
 ## Links úteis:
