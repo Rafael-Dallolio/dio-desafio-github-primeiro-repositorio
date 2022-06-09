@@ -1,0 +1,15 @@
+Módulo 4 - JAVA - 27h
+
+Período proposto de execução: 04/07 - 15/07
+
+Curso:Dominando IDEs Java
+Curso: Varia´veis, Tipos de Dados e Operadores Matemáticos em Java
+Curso: Entendendo Métodos Java
+Curso: Lógica Condicional e Controle de Fluxos em Java
+Curso: Estruturas de Repetição e Arrays em Java
+Curso: Trabalhando com Colletctions Java
+Curso: Tratametno de Exceções em Java
+Curso: Debugging Java
+Curso: Programação Orientada a Objetos
+Desafio de código - Desafios iniciais Java Js- Santander Fullstack Developer
+Desafio de Projeto - Criando um Banco Digital com Java e Orientação a Objetos

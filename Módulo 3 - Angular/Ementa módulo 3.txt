@@ -1,0 +1,16 @@
+Módulo 3 - Angular - 25h
+
+Período proposto de execução: 20/06 - 01/07
+Obs.: trabalhando do zero
+Curso: Introdução ao Angular
+Curso: Trabalhando com páginas SPA com Angular
+Curso: A arquitetura de componentes e a gestão da complexidade no front-end
+Curso: Instalando e preparando o Ambiente Angular
+Curso: Explorando diretivas com Angular
+Curso: Implementando Serviços e Injeção de Dependências com Angular
+Curso: Introdução a Serviços Assíncronos no Angular
+Curso: O poder do Data Binding no Angular
+Curso: Trabalhando com componentes em Angular
+Curso: Criação de Pipes com Angular
+Desafio de código - Desafios intermediários Js- Santander Fullstack Developer
+Desafio de Projeto - Como criar um front-end de um e-commerce utilizando Angular
